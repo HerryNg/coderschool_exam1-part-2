@@ -14,4 +14,4 @@
 -Create a job **Structure**, **UNIQUE id**
 
 -[v] As a developer I can start my express server using the command npm run dex.
--[v] As a developver I can see changes to my API reflected Immediately, without the need to restart my server.
+-[v] As a developver I can see changes to my API reflected Immediately, without the need to restart my server.# coderschool_exam1-part-2
